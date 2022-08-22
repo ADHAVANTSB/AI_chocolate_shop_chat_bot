@@ -9,19 +9,19 @@ chat bot is being created using AI with python
  3.main.py
  4.summa.py
  5.chatbotmodel.py
- intents
+ #intents
  the intents module is usee to get the responses amd the questions , for the many diffent analysis
- training 
+ #Training 
  the training module is used to train the bot using python
- main
+ #Main
  the main module is being used for the develpoment of the bot
- summa 
+ #Summa 
  summa module is being use to download all the packages 
- chatbotmodel
+ #Chatbotmodel
  chatbotmodel model is used for the reference of the main.
  # Prequiredment
- pycharm - software
- python3.10.6 
- numpy 
- nltk 
+ * pycharm - software
+ * python3.10.6 
+ * numpy 
+ * nltk 
 
