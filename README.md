@@ -1,7 +1,4 @@
-# AI_chocolate_shop_chat_bot
-chat bot is being created using AI with python
-# AI_chocolate_shop_chat_bot
-chat bot is being created using AI with python
+
 # AI_chocolate_shop_chat_bot
 chat bot is being created using AI with python
  ChatBot can be described as software that can chat with people using artificial intelligence. These software are used to perform tasks such as quickly responding to users, informing them, helping to purchase products and providing better service to customers
